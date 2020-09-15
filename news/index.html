@@ -1,0 +1,23 @@
+---
+layout: pages
+title: News
+group: news
+heading:
+bgimage: /images/H2B.jpg
+---
+<div class="row">
+        <div class="8u 12u$(small)">
+        {% for post in site.posts %}
+            <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+            <p>
+                <a href="/members#{{post.author}}">{{post.author}}</a><br>
+                <em>{{ post.date | date_to_long_string }}</em>
+            </p>
+            <p>
+                {{ post.content }}
+            </p>
+            <hr>
+        {% endfor %}
+        </div>
+
+</div>

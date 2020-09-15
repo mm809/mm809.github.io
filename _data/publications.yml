@@ -1,0 +1,96 @@
+# THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
+#
+#
+# - citation: "Petek N, Kraemer J, Derman A, **Fraser JS**, DiMaio F, Baker D,  Pogliano J, Agard D, Mullins RD.Structure and function of actin-like protein Alp7A reveal conserved and unique features of actin-based plasmid segregation. *Submitted*, 2015."
+#   date: 201507
+#   image: '/static/img/pub/petek_2015.jpg'
+#   pmid: TBD
+#   pmcid: In Process
+#   pdf: '/static/pdf/petek_2015.pdf'
+#   pdbs:
+#     - 5XXX
+#   links:
+#     - name: 'Mullins lab'
+#       url: http://mullinslab.ucsf.edu/
+#
+
+
+- title: "**Temporal integration of mitogen history in mother cells controls proliferation of daughter cells**"
+  citation: "**Mingwei Min**, Yao Rong, Chengzhe Tian, Sabrina L. Spencer. (**2020**) *Science*"
+  date: '202006'
+  image: '/images/pub/min2020.jpg'
+  pmid: '32241885'
+  pdf: '/pdf/min2020.pdf'
+  links:
+    - name: Spencer lab @ University of Colorado Boulder
+      url: https://www.colorado.edu/lab/spencerlab/
+
+- title: "**Spontaneously slow-cycling subpopulations of human cells originate from activation of stress-response pathways**"
+  citation: "**Mingwei Min**, Sabrina L. Spencer. (**2019**) *Plos Biology*"
+  date: '201903'
+  image: '/images/pub/min2019.png'
+  pmid: '30865623'
+  pdf: '/pdf/min2019.pdf'
+  links:
+    - name: Spencer lab @ University of Colorado Boulder
+      url: https://www.colorado.edu/lab/spencerlab/
+
+- title: "**Ki67 is a Graded Rather than a Binary Marker of Proliferation versus Quiescence.**"
+  citation: "Iain Miller, **Mingwei Min**, Chen Yang, Chengzhe Tian, Sara Gookin, Dylan Carter, Sabrina L.Spencer. (**2018**) *Cell Rep.*"
+  date: '201807'
+  image: '/images/pub/miller2018.jpg'
+  pmid: '30067968'
+  pdf: '/pdf/miller2018.pdf'
+  links:
+    - name: Spencer lab @ University of Colorado Boulder
+      url: https://www.colorado.edu/lab/spencerlab/
+
+- title: "**A map of protein dynamics during cell-cycle progression and cell-cycle exit**"
+  citation: "Sara Gookin, **Mingwei Min**, Harsha Phadke, Mingyu Chung, Justin Moser, Iain Miller, Dylan Carter, Sabrina L.Spencer. (**2017**) *PLOS Biol.*"
+  date: '201709'
+  image: '/images/pub/gookin2017.png'
+  pmid: '28892491'
+  pdf: '/pdf/gookin2017.pdf'
+  links:
+    - name: Spencer lab @ University of Colorado Boulder
+      url: https://www.colorado.edu/lab/spencerlab/
+
+- title: "**UBE2O remodels the proteome during terminal erythroid differentiation**"
+  citation: "Anthony T Nguyen, Miguel A Prado, Paul J Schmidt, Anoop K Sendamarai, Joshua T Wilson-Grady, **Mingwei Min**, Dean R Campagna, Geng Tian, Yuan Shi, Verena Dederer, Mona Kawan, Nathalie Kuehnle, Joao A Paulo, Yu Yao, Mitchell J Weiss, Monica J Justice, Steven P Gygi, Mark D Fleming, Daniel Finley. (**2017**) *Science*"
+  date: '201708'
+  image: '/images/pub/Nguyen2017.jpg'
+  pmid: '28774900'
+  pdf: '/pdf/Nguyen2017.pdf'
+  links:
+    - name: Finley lab @ Harvard medical school
+      url: https://finley.hms.harvard.edu/
+
+- title: "**Efficient APC/C substrate degradation in cells undergoing mitotic exit depends on K11 ubiquitin linkages**"
+  citation: "**Mingwei Min**, Tycho Mevissen, Maria De Luc, David Komander, Catherine Lindon. (**2015**) *Mol. Biol. Cell*"
+  date: '201510'
+  image: '/images/pub/min2015.jpg'
+  pmid: '26446837'
+  pdf: '/pdf/min2015.pdf'
+  links:
+    - name: Lindon lab @ University of Cambridge
+      url: https://www.phar.cam.ac.uk/research/lindon
+
+- title: "**Using in vivo biotinylated ubiquitin to describe a mitotic exit ubiquitome from human cells**"
+  citation: "**Mingwei Min**, Ugo Mayor, Gunnar Dittmar, Catherine Lindon. (**2014**) *Mol. Cell. Proteomics*"
+  date: '201409'
+  image: '/images/pub/min2014.jpg'
+  pmid: '24857844'
+  pdf: '/pdf/min2014.pdf'
+  links:
+    - name: Lindon lab @ University of Cambridge
+      url: https://www.phar.cam.ac.uk/research/lindon
+
+- title: "**Ubiquitination site preferences in anaphase promoting complex/cyclosome (APC/C) substrates**"
+  citation: "**Mingwei Min**, Ugo Mayor, Catherine Lindon. (**2013**) *Open Biol.*"
+  date: '201309'
+  image: '/images/pub/min2013.jpg'
+  pmid: '24004664'
+  pdf: '/pdf/min2013.pdf'
+  links:
+    - name: Lindon lab @ University of Cambridge
+      url: https://www.phar.cam.ac.uk/research/lindon
