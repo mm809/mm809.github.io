@@ -1,11 +1,8 @@
-- 
-  title: 'Welcome to the Min Lab!'
+- title: 'Welcome to the Min Lab!'
   content: '
-  <p><h1>We are part of the Center of Cell Lineage & Atlas (CCLA) at <a href="http://en.grmh-gdl.cn/">Bioland Laboratory</a> (the formal name is Guangzhou Regenerative Medicine and Health Guangdong Laboratory) in the city of Guangzhou.</h3></p>
+ <p><h1>
+    Our mission\: understand how cell fate decisions are regulated in the temporal and spatial domain.
+  </h1></p>
 
-  <p><h1>
-    The primary focus of our lab is to understand how cell fate decisions are regulated in the temporal and spatial domain.
-  </h3></p>
-
-  <p><h3>Interested in working with us?</h3>We don''t generally post for specific positions, so please <a href=/join>reach out!</a><br/>We welcome applicants from all backgrounds!</p>
+  <p><h3>Interested in working with us?</h3>Please <a href=/join>reach out!</a><br/>We welcome applicants from a wide range of backgrounds!</p>
 '
