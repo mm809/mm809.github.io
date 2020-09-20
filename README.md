@@ -1,6 +1,6 @@
 # Minlab.github.io
 
-Welcome to the source code for the website of the Min Lab, located at Bioland Lab, Guangzhou.
+Welcome to the source code for the website of the Min Lab, located at the Bioland Labortory, Guangzhou.
 
 Technologies this website uses:  
 
