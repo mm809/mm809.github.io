@@ -5,7 +5,7 @@ layout: pages
 group: news
 ---
 
-We don’t traditionally celebrate Christmas here in China, but Jiasui gives us a perfect reason😊
+We don’t traditionally celebrate Christmas here in China, but Jiasui gives us a perfect reason.😊/n
 Happy Birthday Jiasui & Merry Christmas everyone!
 
 
