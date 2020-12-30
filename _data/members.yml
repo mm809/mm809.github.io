@@ -66,6 +66,22 @@
   email: Jiasui_liu (at) grmh-gdl.cn
   description: "
 
-         Jiasui Liu holds a Master of Engineering in biomedical engineering from the Cornell University since 2020. At Cornell, she worked on 2D ultrasound image processing and quantitative genomics study. These studies had stimulated her interest in bioimaging techniques. In Nov 2020, Jiasui Liu began her career in the Min lab as a Research Assistant at the Center of Cell Lineage and Atlas (CCLA) and will build her skills toward image processing.
+         Jiasui Liu holds a Master of Engineering in biomedical engineering from the Cornell University since 2020. \
+         At Cornell, she worked on 2D ultrasound image processing and quantitative genomics study. These studies had stimulated her interest in bioimaging techniques. \
+         In Nov 2020, Jiasui Liu began her career in the Min lab as a Research Assistant at the Center of Cell Lineage and Atlas (CCLA) and will build her skills toward image processing.
 
+          "
+          
+- name: Shichao Gao 高士超
+  image: /images/members/Shichao.jpg
+  position: Research Assistant
+  pronouns: he/him/his
+  email: shichao_gao (at) outlook.com
+  description: "
+
+Shichao holds a BS in Computer Science and Technology from Ludong University (Shandong, China). \
+As an undergrad, he participated in researches on medical image processing and high-dimensional gene data analysis using machine learning approaches. \
+After graduation, he joined Xiaojian Li's lab in the Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, as a research assistant, \
+where he worked on neural data analysis (two-photon calcium image processing, in vivo electrophysiology) and neural encoding for brain-computer interface. \
+In Dec 2020, he joined the Min lab to develop live-cell imaging and single-cell omics tools for cell lineage tracing. He is also interested in exploring the prospect of these basic research tools in clinical and translational science.
           "
