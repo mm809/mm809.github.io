@@ -52,25 +52,25 @@ bgimage: /images/H2B.jpg
   {%- for student in site.data.alumni -%}
 <div class="row">
     <div class="3u 12u$(small)">
-        <span class="image fit"><img src="{{person.image}}" alt=""></span>
+        <span class="image fit"><img src="{{student.image}}" alt=""></span>
         <br>
-        <strong><span class="memberName">{{person.name}}</span></strong> <br>
-        {% if person.orcid %}
+        <strong><span class="memberName">{{student.name}}</span></strong> <br>
+        {% if student.orcid %}
           <a href="http://orcid.org"><img class="inline-block" src="/images/orcid_logo.png"></a>
-          <a id="links" href="http://orcid.org/{{person.orcid}}"><span class="memberDetail"> {{person.orcid}}</span></a> <br>
+          <a id="links" href="http://orcid.org/{{student.orcid}}"><span class="memberDetail"> {{student.orcid}}</span></a> <br>
         {% endif %}
-        {% if person.scholar %}
+        {% if student.scholar %}
           <a href="https://scholar.google.com/"><img class="inline-block" src="/images/google-scholar.png"></a>
-          <a id="links" href= "http://scholar.google.com/citations?user={{person.scholar}}"><span class="memberDetail"> Scholar Citations </span></a> <br>
+          <a id="links" href= "http://scholar.google.com/citations?user={{student.scholar}}"><span class="memberDetail"> Scholar Citations </span></a> <br>
         {% endif %}
-        {% if person.twitter %}
+        {% if student.twitter %}
           <a href="http://twitter.com/"><img class="inline-block" src="/images/twitter_logo.png"></a>
-          <a id="links" href= "http://twitter.com/{{person.twitter}}"> <span class="memberDetail">@{{person.twitter}} </span></a> <br>
+          <a id="links" href= "http://twitter.com/{{person.twitter}}"> <span class="memberDetail">@{{student.twitter}} </span></a> <br>
         {% endif %}
     </div>
 
     <div class="9u$ 12u$(small)">
-        {{person.description | markdownify}}
+        {{student.description | markdownify}}
     </div>
 </div>
   {%- endfor -%}
