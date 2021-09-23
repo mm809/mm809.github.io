@@ -57,11 +57,6 @@ bgimage: /images/H2B.jpg
         <span class="image fit"><img src="{{person.image}}" alt=""></span>
         <br>
         <strong><span class="memberName">{{person.name}}</span></strong> <br>
-        {% if person.pronouns %}
-          <em>{{person.pronouns}}</em> <br>
-        {% endif %}
-        <span class="memberDetail">{{person.position}}</span> <br>
-        <span class="memberDetail">{{person.email}}</span><br>
         {% if person.orcid %}
           <a href="http://orcid.org"><img class="inline-block" src="/images/orcid_logo.png"></a>
           <a id="links" href="http://orcid.org/{{person.orcid}}"><span class="memberDetail"> {{person.orcid}}</span></a> <br>
