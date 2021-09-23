@@ -50,7 +50,7 @@ bgimage: /images/H2B.jpg
 <h2>Alumni</h2>
 {% if site.data.alumni %}
   {%- for student in site.data.alumni -%}
-
+<div class="row">
     <div class="3u 12u$(small)">
         <span class="image fit"><img src="{{person.image}}" alt=""></span>
         <br>
@@ -72,6 +72,6 @@ bgimage: /images/H2B.jpg
     <div class="9u$ 12u$(small)">
         {{person.description | markdownify}}
     </div>
-
+</div>
   {%- endfor -%}
 {% endif %}
