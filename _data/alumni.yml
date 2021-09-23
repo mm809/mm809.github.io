@@ -1,1 +1,14 @@
-- name: 
+- name: Shichao Gao 高士超
+  image: /images/members/Shichao.jpg
+  position: Research Assistant
+  pronouns: he/him/his
+  email: shichao_gao (at) outlook.com
+  description: "
+
+Shichao holds a BS in Computer Science and Technology from Ludong University (Shandong, China). \
+As an undergrad, he participated in researches on medical image processing and high-dimensional gene data analysis using machine learning approaches. \
+After graduation, he joined Xiaojian Li's lab in the Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, as a research assistant, \
+where he worked on neural data analysis (two-photon calcium image processing, in vivo electrophysiology) and neural encoding for brain-computer interface. \
+In Dec 2020, he joined the Min lab to develop live-cell imaging and single-cell omics tools for cell lineage tracing. He is also interested in exploring the prospect of these basic research tools in clinical and translational science. \
+Shichao is now a graducate student in Washington University in St. Louis.
+          "
