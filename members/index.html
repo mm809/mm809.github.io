@@ -55,6 +55,9 @@ bgimage: /images/H2B.jpg
         <span class="image fit"><img src="{{student.image}}" alt=""></span>
         <br>
         <strong><span class="memberName">{{student.name}}</span></strong> <br>
+        {% if student.pronouns %}
+          <em>{{student.pronouns}}</em> <br>
+        {% endif %}
         {% if student.orcid %}
           <a href="http://orcid.org"><img class="inline-block" src="/images/orcid_logo.png"></a>
           <a id="links" href="http://orcid.org/{{student.orcid}}"><span class="memberDetail"> {{student.orcid}}</span></a> <br>
@@ -73,5 +76,8 @@ bgimage: /images/H2B.jpg
         {{student.description | markdownify}}
     </div>
 </div>
+{% endfor %}
+<hr>
   {%- endfor -%}
 {% endif %}
+<hr>

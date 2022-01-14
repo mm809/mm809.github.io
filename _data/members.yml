@@ -18,19 +18,6 @@
 
         "
 
-- name: Xinyi Wang 王鑫怡
-  image: /images/members/Xinyi.jpg
-  position: Research Assistant/Lab Manager
-  pronouns: she/her/her
-  email: wang_xinyi (at) grmh-gdl.cn
-  description: "
-
-          Xinyi earned her master degree at Southwest University (Chongqing, China) in 2020. She did her graduate work at the State Key Laboratory of Silkworm Genome Biology, where she \
-          focused on unraveling the mechanism of the innate immune signaling - how <i>Drosophila</i> STING (dSTING) activates Relish to mediate antiviral immune response. \
-          She joined the Min Lab as a Research Assistant in July 2020. \
-          She will learn the state-of-the-art imaging technologies and develop her interests in cell biology. Meanwhile, she is also taking care of the administration work for the group.
-
-          "
 - name: Mengdan Zhang 张梦丹
   image: /images/members/Mengdan.jpg
   position: Postdoc
@@ -57,6 +44,19 @@
           where he gained some experience on synthesis of contrast angents for bio-medical imaging. His growing interest on biophysics \
           drove him to <em>research center casear</em> (Bonn, Germany) in 2014. At <em>caesar</em>, he worked on characterizing sperm sensory-motor loop and measuring sperm 3D motility with holography under the supervision of Prof. Benjamin Kaupp and Dr. Luis Alvarez. \
           After finishing his interdisciplinary research training in 2020, he joined the Min Lab as a postdoc.
+
+          "
+- name: Xinyi Wang 王鑫怡
+  image: /images/members/Xinyi.jpg
+  position: Research Assistant/Lab Manager
+  pronouns: she/her/her
+  email: wang_xinyi (at) grmh-gdl.cn
+  description: "
+
+          Xinyi earned her master degree at Southwest University (Chongqing, China) in 2020. She did her graduate work at the State Key Laboratory of Silkworm Genome Biology, where she \
+          focused on unraveling the mechanism of the innate immune signaling - how <i>Drosophila</i> STING (dSTING) activates Relish to mediate antiviral immune response. \
+          She joined the Min Lab as a Research Assistant in July 2020. \
+          She will learn the state-of-the-art imaging technologies and develop her interests in cell biology. Meanwhile, she is also taking care of the administration work for the group.
 
           "
 
