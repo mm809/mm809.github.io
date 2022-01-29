@@ -2,7 +2,7 @@
   image: /images/members/MingweiMin.jpg
   position: Principal Investigator
   pronouns: she/her/her
-  email: min_mingwei (at) grmh-gdl.cn
+  email: min_mingwei (at) gzlab.ac.cn
   scholar: yI_yQq8AAAAJ&hl
   twitter: MMingwei
   orcid: 0000-0002-9050-5330
@@ -17,12 +17,24 @@
         The lab has been transferred to the Guangzhou Laboratory since July 2021.
 
         "
+- name: Chan Feng 冯婵
+  image: /images/members/ChanFeng.jpg
+  position: Lab Manager/Research Assistant
+  pronouns: she/her/her
+  email: feng_chan (at) gzlab.ac.cn
+  description: "
+
+          Chan Feng earned her master degree from the Guangzhou University of Chinese Medicine in June 2020. Her postgraduate work mainly focused on the isolation and identification of secondary metabolites from marine microorganisms.
+           After graduation, she worked in scientific research management in a biopharmaceutical company.
+           She joined the Min Lab in December 2021 as the lab manager, where she will also learn cell biology.
+
+          "
 
 - name: Mengdan Zhang 张梦丹
   image: /images/members/Mengdan.jpg
   position: Postdoc
   pronouns: she/her/her
-  email: zhang_mengdan (at) grmh-gdl.cn
+  email: zhang_mengdan (at) gzlab.ac.cn
   orcid: 0000-0002-5549-5376
   description: "
 
@@ -36,7 +48,7 @@
   image: /images/members/AnGong.jpg
   position: Postdoc
   pronouns: he/him/his
-  email: gong_an (at) grmh-gdl.cn
+  email: gong_an (at) gzlab.ac.cn
   orcid: 0000-0001-5701-8533
   description: "
 
@@ -50,13 +62,12 @@
   image: /images/members/Xinyi.jpg
   position: Research Assistant
   pronouns: she/her/her
-  email: wang_xinyi (at) grmh-gdl.cn
+  email: wang_xinyi (at) gzlab.ac.cn
   description: "
 
           Xinyi earned her master degree at Southwest University (Chongqing, China) in 2020. She did her graduate work at the State Key Laboratory of Silkworm Genome Biology, where she \
           focused on unraveling the mechanism of the innate immune signaling - how <i>Drosophila</i> STING (dSTING) activates Relish to mediate antiviral immune response. \
-          She joined the Min Lab as a Research Assistant in July 2020. \
-          She will learn the state-of-the-art imaging technologies and develop her interests in cell biology. Meanwhile, she is also taking care of the administration work for the group.
+          She joined the Min Lab as the lab manager in July 2020. After finding her passion in cell biology, she switched her role to a research assistant to study ES cell fulltime.
 
           "
 
@@ -64,6 +75,7 @@
   image: /images/members/Chuncao.jpg
   position: Research Assistant
   pronouns: she/her/her
+  email: deng_chuncao (at) gzlab.ac.cn
   email:
   description: "
 Chuncao completed her Master in June 2018 at Sichuan University, where her major was Forensic Genetics. \
@@ -77,6 +89,7 @@ In September 2021, she joined the Min Lab to work on cell fate transitions.
   image: /images/members/Jiaming.jpg
   position: Research Assistant
   pronouns: he/him/his
+  email: guo_jiaming (at) gzlab.ac.cn
   email:
   description: "
 Jiaming Guo earned his master degree at the South China University of Technology (SCUT) in August 2020. \
