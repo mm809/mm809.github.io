@@ -7,4 +7,4 @@ group: news
 
 
 
-<img src="/images/FCBirday2022.jpg" width=50%>
+<span class="image fit"><img src="/images/FCBirthday2022.jpg"   alt="FCMD_Bday2022"     class="img-responsive"></span>
