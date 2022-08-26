@@ -60,37 +60,39 @@
           "
 - name: Xinyi Wang 王鑫怡
   image: /images/members/Xinyi.jpg
-  position: Research Assistant
+  position: PhD student
   pronouns: she/her/her
   email: wang_xinyi (at) gzlab.ac.cn
   description: "
 
           Xinyi earned her master degree at Southwest University (Chongqing, China) in 2020. She did her graduate work at the State Key Laboratory of Silkworm Genome Biology, where she \
           focused on unraveling the mechanism of the innate immune signaling - how <i>Drosophila</i> STING (dSTING) activates Relish to mediate antiviral immune response. \
-          She joined the Min Lab as the lab manager in July 2020. After finding her passion in cell biology, she switched her role to a research assistant to study ES cell fulltime.
+          She joined the Min Lab as the lab manager in July 2020. After finding her passion in cell biology, she switched her role to a research assistant to study ES cell full time. \
+          She starts her PhD in the Min lab in fall 2022.
 
           "
 
 - name: Chuncao Deng 邓春草
   image: /images/members/Chuncao.jpg
-  position: Research Assistant
+  position: PhD student
   pronouns: she/her/her
   email: deng_chuncao (at) gzlab.ac.cn
   description: "
           Chuncao completed her Master in June 2018 at Sichuan University, where her major was Forensic Genetics. \
           She focused on X chromosomal recombination for forensic purpose, which initially inspired her interest in cell biology. \
           In November 2019, she worked as a research assistant in the Bioland Laboratory, and participated in SARS-CoV-2 related projects. \
-          In September 2021, she joined the Min Lab to work on cell fate transitions.
+          In September 2021, she joined the Min Lab to work on cell fate transitions. She became a PhD student in fall 2022.
           "
 
 
-- name: Jiaming Guo 郭嘉明
-  image: /images/members/Jiaming.jpg
+- name: Hong Fu 付洪
+  image: /images/members/Fuhong.jpg
   position: Research Assistant
   pronouns: he/him/his
-  email: guo_jiaming (at) gzlab.ac.cn
+  email: fu_hong (at) gzlab.ac.cn
   description: "
-        Jiaming Guo earned his master degree at the South China University of Technology (SCUT) in August 2020. \
-        While at SCUT, he explore methods to improve ethanol production from rice straw. \
-        In September 2021, Jiaming joined the Min Lab as a Research Assistant, where he will apply deep learning to cell biology research.
+Hong Fu earned his master degree in June 2021 at Southwest Jiaotong University. \
+His work focused on the roles of LncRNA RMRP in osteoblast differentiation. \
+After graduation, he continue his research still in the same lab. He joined in Min Lab in July 2022 as a research assistant. \
+His work focus on cell fate transitions in ES cells.
           "
