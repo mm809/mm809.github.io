@@ -1,3 +1,4 @@
+---
 title: Picnic and movie night to celebrate recent birthdays! •ᴗ•
 author:
 layout: pages

@@ -1,4 +1,4 @@
-
+---
 title: New lab pets produced by ender3. ◔.̮◔✧
 author:
 layout: pages

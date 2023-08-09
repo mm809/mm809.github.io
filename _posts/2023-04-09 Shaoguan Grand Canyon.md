@@ -1,3 +1,4 @@
+---
 title: Hiking trip at the Shaoguan Grand Canyon
 author:
 layout: pages
