@@ -87,15 +87,17 @@
 
 - name: Hong Fu 付洪
   image: /images/members/Fuhong.jpg
-  position: Research Assistant
+  position: PhD student
   pronouns: he/him/his
   email: 
   description: "
-Hong Fu earned his master degree in June 2021 at Southwest Jiaotong University. \
-His work focused on the roles of LncRNA RMRP in osteoblast differentiation. \
-After graduation, he continue his research still in the same lab. He joined in Min Lab in July 2022 as a research assistant. \
+Hong Fu earned his master degree in June 2021 at Southwest Jiaotong University.\
+His work focused on the roles of LncRNA RMRP in osteoblast differentiation.\
+After graduation, he continue his research still in the same lab. He joined in Min Lab in July 2022 as a research assistant.\
 His work focus on cell fate transitions in ES cells.
-          "
+He became a PhD student in fall 2023.
+"
+
 
 - name: Qingyang Sun 孙庆扬
   image: /images/members/Qingyang.jpg
@@ -117,14 +119,6 @@ Zhishen studied the interaction between virus and surface receptor of host cell 
 After graduation, he worked in Jia-Xing Yue’s lab of Sun Yat-sen University Cancer Center as a technician, studying genomic instability in yeast. He joined the Min lab in 2022.7.
 "
 
-- name: Yuelan Zhao 赵跃岚
-  image: /images/members/Yuelan Zhao.jpg
-  position: Research Assistant
-  pronouns: she/her/her
-  email: 
-  description: "
-Yuelan graduated from Northwest A&F University majoring in biotechnology and joined Min Lab as an intern in April 2023.
-"
 
 - name: Haishan Xiao 肖海善
   image: /images/members/Haishan Xiao.jpg
@@ -147,6 +141,7 @@ Qi Li earned her master's degree at Nanning Normal University in 2023.\
 She mainly focused on long-time behaviors and the bifurcation analysis of stochastic partial differential equations during the postgraduate period.\
 In July 2023, Qi Li joined the min lab as a research assistant and currently focuses on modeling somatic reprogramming.
 "
+
 - name: Xinyi Lu 陆心仪
   image: /images/members/Xinyi Lu.jpg
   position: Research Assistant
@@ -156,6 +151,38 @@ In July 2023, Qi Li joined the min lab as a research assistant and currently foc
 Lu, earned her master's degree at the University of Michigan, Ann Arbor. Her project was about mechanism mediating a synergy therapy induced- DNA damage and cell death in head and neck squamous cell carcinomas using in-vivo and in-vitro models.\
 After graduation, she stayed at the University of Michigan, focusing on G protein-coupled receptor using transgenic mice models. She never gives up any chance to do research and always has a belief in her mind which is doing things in good faith and with no expectation of reward.\
 Now she is working in Min lab as a research assistant and researching on stem cells.
+"
+
+- name: Yuan Li 李渊
+  image: /images/members/ Yuan Li.jpg
+  position: PhD student
+  pronouns: he/him/his
+  email: 
+  description: "
+Yuan Li earned his master’s degree at the University of Science and Technology of China.\ 
+After graduation, he worked in Hui Zheng’s lab at Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences as a research assistant, focusing on nerve cell fate decision and conversion.\
+He joined the Min lab in Sept 2023 as a PhD student. His current research focused on alveolar regeneration.
+"
+
+- name: Zhenzhu Sun 孙珍珠
+  image: /images/members/ Zhenzhu Sun.jpg
+  position: Research Assistant
+  pronouns: she/her/her
+  email: 
+  description: "
+Zhenzhu obtained her master's degree at Guangzhou Medical University in 2023.\
+She completed her master's training at the Guangzhou Institutes of Biomedicine and Health (Chinese Academy of Science), where she focused on ESCs' metabolic changes and cell fate decisions.\
+In January 2024, she joined the Min lab as a research assistant, focusing on basal stem cell lineage.
+"
+
+- name: Yunxiao Wu 吴云萧
+  image: /images/members/ Yunxiao Wu.jpg
+  position: Research Assistant
+  pronouns: she/her/her
+  email: 
+  description: "
+Yunxiao received his bachelor's degree in Electronic Information Engineering from Ningxia North Minzu University in June 2023.\
+Yunxiao joined Min lab in May 2024 as a research Assistant.
 "
 
 
