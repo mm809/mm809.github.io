@@ -19,7 +19,7 @@
   image: '/images/pub/min2026.png'
   pmid: '41634384'
   pdf: '/pdf/min2026.pdf'
-links:
+  links:
     - name: 
       url: https://www.nature.com/articles/s41422-026-01221-z /
 
@@ -29,7 +29,7 @@ links:
   image: '/images/pub/min2025.png'
   pmid: ''
   pdf: ' '
-links:
+  links:
     - name: 
       url: https://academic.oup.com/jmcb/advance-article/doi/10.1093/jmcb/mjaf046/8361458
 
