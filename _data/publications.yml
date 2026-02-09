@@ -21,14 +21,14 @@
   pdf: '/pdf/min2026.pdf'
   links:
     - name: 
-      url: https://www.nature.com/articles/s41422-026-01221-z /
+      url: https://www.nature.com/articles/s41422-026-01221-z
 
 - title: "**A high-throughput method for quantifying relative telomere length in single cells in situ combined with live-cell imaging**"
   citation: "Qingyang Sun , Zhengzhi Zou , **Mingwei Min**(**2025**) *Journal of Molecular Cell Biology*"
   date: '202511'
   image: '/images/pub/min2025.png'
   pmid: ''
-  pdf: ' '
+  pdf: ''
   links:
     - name: 
       url: https://academic.oup.com/jmcb/advance-article/doi/10.1093/jmcb/mjaf046/8361458
