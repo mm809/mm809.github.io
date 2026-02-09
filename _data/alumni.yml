@@ -2,58 +2,79 @@
   image: /images/members/Shichao.jpg
   position: Research Assistant
   pronouns: he/him/his
-  email: shichao_gao (at) outlook.com
-  description: "
-
-Shichao holds a BS in Computer Science and Technology from Ludong University (Shandong, China). \
-As an undergrad, he participated in researches on medical image processing and high-dimensional gene data analysis using machine learning approaches. \
-After graduation, he joined Xiaojian Li's lab in the Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, as a research assistant, \
-where he worked on neural data analysis (two-photon calcium image processing, in vivo electrophysiology) and neural encoding for brain-computer interface. \
-In Dec 2020, he joined the Min lab to develop live-cell imaging and single-cell omics tools for cell lineage tracing. He is also interested in exploring the prospect of these basic research tools in clinical and translational science. \
-Shichao is now a graduate student in Washington University in St. Louis.
-          "
+  email: 
+  description: "Shichao holds a BS in Computer Science and Technology from Ludong University (Shandong, China). \
+  As an undergrad, he participated in researches on medical image processing and high-dimensional gene data analysis using machine learning approaches. \
+  After graduation, he joined Xiaojian Li's lab in the Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, as a research assistant, \
+  where he worked on neural data analysis (two-photon calcium image processing, in vivo electrophysiology) and neural encoding for brain-computer interface. \
+  In Dec 2020, he joined the Min lab to develop live-cell imaging and single-cell omics tools for cell lineage tracing. He is also interested in exploring the prospect of these basic research tools in clinical and translational science. \
+  In 2021 Shichao became a graduate student in Washington University in St. Louis."
 
 - name: Jiasui Liu 刘佳穗
   image: /images/members/Jiasui.jpg
   position: Research Assistant
   pronouns: she/her/her
-  email: Jiasui_liu (at) grmh-gdl.cn
-  description: "
-
-         Jiasui Liu holds a Master of Engineering in biomedical engineering from the Cornell University since 2020. \
-         At Cornell, she worked on 2D ultrasound image processing and quantitative genomics study. These studies had stimulated her interest in bioimaging techniques. \
-         In Nov 2020, Jiasui Liu joined the Min lab as a Research Assistant and has greatly contributed to improving the image processing pipeline in the lab. \
-         Jiasui is now a PhD student in Martin Beck's lab at the Max Planck Institute of Biophysics.
-
-          "
+  email: 
+  description: "Jiasui Liu holds a Master of Engineering in biomedical engineering from the Cornell University since 2020. \
+  At Cornell, she worked on 2D ultrasound image processing and quantitative genomics study. These studies had stimulated her interest in bioimaging techniques. \
+  In Nov 2020, Jiasui Liu joined the Min lab as a Research Assistant and has greatly contributed to improving the image processing pipeline in the lab. \
+  In 2022,  Jiasui became  a PhD student in Martin Beck's lab at the Max Planck Institute of Biophysics."
 
 - name: Jiaming Guo 郭嘉明
   image: /images/members/Jiaming.jpg
   position: Research Assistant
   pronouns: he/him/his
   email: guo_jiaming (at) gzlab.ac.cn
-  description: "
-        Jiaming Guo earned his master degree at the South China University of Technology (SCUT) in August 2020. \
-        While at SCUT, he explore methods to improve ethanol production from rice straw. \
-        In September 2021, Jiaming joined the Min Lab as a Research Assistant, where he applies deep learning to cell biology research. \
-        Jiaming is now working with Cheerland Biotech.
-
-          "
+  description: "Jiaming Guo earned his master degree at the South China University of Technology (SCUT) in August 2020. \
+  While at SCUT, he explore methods to improve ethanol production from rice straw. \
+  In September 2021, Jiaming joined the Min Lab as a Research Assistant, where he applies deep learning to cell biology research. \
+  In 2022, Jiaming started his job at Cheerland Biotech."
 
 - name: Yuelan Zhao 赵跃岚
   image: /images/members/Yuelan Zhao.jpg
   position: Research Assistant
   pronouns: she/her/her
   email: 
-  description: "
-         Yuelan graduated from Northwest A&F University majoring in biotechnology and joined Min Lab as an intern in April 2023.\
-         She is preparing for the master's entrance exam.
-    "
+  description: "Yuelan graduated from Northwest A&F University majoring in biotechnology and joined Min Lab as an intern in April 2023.\
+  In 2023, she was preparing for the master's entrance exam."
 
 - name: Yuxia Zhang 张雨夏
   image: /images/members/Yuxia Zhang.jpg
-  description: "
-         Yuxia holds a Bachelor of Mathematics in Combinatorics & Optimization and Computational Mathematics from Unversity of Waterloo in Canada.\
-         In Oct 2023, Yuxia started a research internship at the Min Lab to develop differential equations models of somatic reprogramming, and algebraic and topological model of Gene Regulatory Networks.\
-         Yuxia is now a graduate student at the University of Manchester.
-         "
+  pronouns: she/her/her
+  description: "Yuxia holds a Bachelor of Mathematics in Combinatorics & Optimization and Computational Mathematics from Unversity of Waterloo in Canada.\
+  In Oct 2023, Yuxia started a research internship at the Min Lab to develop differential equations models of somatic reprogramming, and algebraic and topological model of Gene Regulatory Networks.\
+  In 2024, Yuxia became a graduate student at the University of Manchester."
+
+- name: Qi Li 李琦
+  image: /images/members/Qi Li.jpg
+  position: Research Assistant
+  pronouns: she/her/her
+  description: "Qi Li earned her master's degree at Nanning Normal University in 2023.\
+  She mainly focused on long-time behaviors and the bifurcation analysis of stochastic partial differential equations during the postgraduate period.\
+  In July 2023, Qi Li joined the min lab as a research assistant and currently focuses on modeling somatic reprogramming.\
+  In 2024 Qi Li became a PhD student at Yunnan University."
+
+- name: Xinyi Lu 陆心仪
+  image: /images/members/Xinyi Lu.jpg
+  position: Research Assistant
+  pronouns: she/her/her
+  email: 
+  description: "Lu, earned her master's degree at the University of Michigan, Ann Arbor. Her project was about mechanism mediating a synergy therapy induced- DNA damage and cell death in head and neck squamous cell carcinomas using in-vivo and in-vitro models.\
+  After graduation, she stayed at the University of Michigan, focusing on G protein-coupled receptor using transgenic mice models. She never gives up any chance to do research and always has a belief in her mind which is doing things in good faith and with no expectation of reward.\
+  she joined Min lab as a research assistant and researching on stem cells.\
+  In 2024, Lu became a PhD student at Westlake University."
+
+- name: Yunxiao Wu 吴云萧
+  image: /images/members/Yunxiao Wu.jpg
+  position: Research Assistant
+  pronouns: she/her/her
+  description: "Yunxiao received his bachelor's degree in Electronic Information Engineering from Ningxia North Minzu University in June 2023.\
+  Yunxiao joined Min lab in May 2024 as a research Assistant."
+
+- name: Mengdan Zhang 张梦丹
+  image: /images/members/Mengdan.jpg
+  position: Postdoc
+  pronouns: she/her/her
+  description: "Mengdan completed her PhD at Guangzhou Institutes of Biomedicine and Health (Chinese Academy of Sciences) in June 2020. \
+  Her PhD work was mainly focused on the function of small molecular, such as Vitamin A and Vitamin C, in somatic cells reprogramming and mesenchymal-to-epithelial (MET) during the cell fate transition.\
+  For her postdoc work, Mengdan will study the role of cell cycle regulation in reprogramming at the single-cell level."
