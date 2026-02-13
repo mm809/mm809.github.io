@@ -9,4 +9,4 @@ We celebrate Jiasui's PhD offer with a glass of bubbles. Jiasui will start her P
 
 Congrats Jiasui and HAVE FUN in you PhD! We will surely miss you.
 
-<span class="image fit"><img src="/images/Jiasui_PhDoffercelebration.jpg"   alt="Jiasui"     class="img-responsive"></span>
+<span class="image fit"><img src="/images/Jiasui_PhDoffercelebration.png"   alt="Jiasui"     class="img-responsive"></span>

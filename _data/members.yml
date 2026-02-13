@@ -52,10 +52,8 @@
   orcid: 
   description: "
 
-Di Lu completed her PhD at Sun Yat-sen University in June 2025. \
-Her doctoral work focused on the immunoregulation and clinical translation of mesenchymal stem cells and NK cells, driven by a deep interest in how stem cells and immune cells interact in disease.\
-In August 2025, she joined the Min Lab as a postdoc. \
-She is now learning and exploring the cellular interactions within tissue repair and the immune microenvironment in COPD.
+Di Lu completed her PhD at Sun Yat-sen University in June 2025. Her doctoral work focused on the immunoregulation and clinical translation of mesenchymal stem cells and NK cells, driven by a deep interest in how stem cells and immune cells interact in disease.\
+In August 2025, she joined the Min Lab as a postdoc. She is now learning and exploring the cellular interactions within tissue repair and the immune microenvironment in COPD.
           "
 
 - name: Xinyi Wang 王鑫怡
@@ -84,7 +82,7 @@ She is now learning and exploring the cellular interactions within tissue repair
           "
 
 - name: Hong Fu 付洪
-  image: /images/members/Fuhong.jpg
+  image: /images/members/Fuhong.png
   position: PhD student
   pronouns: he/him/his
   email: 
@@ -92,7 +90,7 @@ She is now learning and exploring the cellular interactions within tissue repair
 Hong Fu earned his master degree in June 2021 at Southwest Jiaotong University. \
 His work focused on the roles of LncRNA RMRP in osteoblast differentiation. \
 After graduation, he continue his research still in the same lab. He joined in Min Lab in July 2022 as a research assistant. \
-His work focus on cell fate transitions in ES cells. \
+His work focus on cell fate transitions in ES cells.
 He became a PhD student in fall 2023.
 "
 - name: Yuan Li 李渊
@@ -101,25 +99,25 @@ He became a PhD student in fall 2023.
   pronouns: he/him/his
   email: 
   description: "
-Yuan Li earned his master's degree at the University of Science and Technology of China. \
-After graduation, he worked in Hui Zheng's lab at Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences as a research assistant, focusing on nerve cell fate decision and conversion. \
+Yuan Li earned his master’s degree at the University of Science and Technology of China. \
+After graduation, he worked in Hui Zheng’s lab at Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences as a research assistant, focusing on nerve cell fate decision and conversion. \
 He joined the Min lab in Sept 2023 as a PhD student. His current research focused on alveolar regeneration.
 "
 
 - name: Zhishen Huang 黄志深
   image: /images/members/Zhishen Huang.png
-  position: PhD student
+  position: Research Assistant
   pronouns: he/him/his
   email: 
   description: "
-Zhishen studied the interaction between virus and surface receptor of host cell for his Master thesis at Pearl River Fisheries Research Institute of Chinese Academy of Fishery Sciences. He earned his master's degree in 2021.6. \
-After graduation, he worked in Jia-Xing Yue's lab of Sun Yat-sen University Cancer Center as a technician, studying genomic instability in yeast. He joined the Min lab in 2022.7. \
+Zhishen studied the interaction between virus and surface receptor of host cell for his Master thesis at Pearl River Fisheries Research Institute of Chinese Academy of Fishery Sciences. He earned his master’s degree in 2021.6. \
+After graduation, he worked in Jia-Xing Yue’s lab of Sun Yat-sen University Cancer Center as a technician, studying genomic instability in yeast. He joined the Min lab in 2022.7. \
 He began his PhD studies in the Min lab in fall 2024.
 "
 
 - name: Haishan Xiao 肖海善
   image: /images/members/Haishan Xiao.png
-  position: PhD student
+  position: Research Assistant
   pronouns: he/him/his
   email: 
   description: "
@@ -131,7 +129,7 @@ He started his PhD studies in the Min lab in fall 2024.
 
 - name: Qingyang Sun 孙庆扬
   image: /images/members/Qingyang.png
-  position: PhD student
+  position: Master student
   pronouns: she/her/her
   email:
   description: "
@@ -143,14 +141,14 @@ She began her PhD studies in the Min lab in fall 2025.
 
 - name: Zhenzhu Sun 孙珍珠
   image: /images/members/Zhenzhu Sun.png
-  position: PhD student
+  position: Research Assistant
   pronouns: she/her/her
   email: 
   description: "
 Zhenzhu obtained her master's degree at Guangzhou Medical University in 2023. \
 She completed her master's training at the Guangzhou Institutes of Biomedicine and Health (Chinese Academy of Science), where she focused on ESCs' metabolic changes and cell fate decisions. \
 In January 2024, she joined the Min lab as a research assistant, focusing on basal stem cell lineage. \
-She began her PhD studies in the Min lab in fall 2025.
+She began her PhD studies in the Min lab in fall 2025
 "
 - name: Gaoshen Liu 刘高伸
   image: /images/members/Gaoshen Liu.png
@@ -158,8 +156,10 @@ She began her PhD studies in the Min lab in fall 2025.
   pronouns: he/him/his
   email: 
   description: "
-Yuxiao graduated with a degree in Bioengineering from Hubei University and is currently pursuing a Master's degree in Biology at Guangzhou Medical University. \
-Yuxiao joined the Min lab in February 2025, with her current research focus on lineage tracing and lung regeneration.
+Gaoshen received his Master’s degree from Guangzhou Medical University in 2024.
+During his master’s studies, he investigated the regulation of embryonic stem cell fate transition at Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences.
+In July 2024, he joined the Min Lab as a Research Assistant, focusing on studies related to airway basal cells.
+He began his PhD studies in 2025.
 "
 
 - name: Yuxiao Xiao 肖玉潇
@@ -168,10 +168,9 @@ Yuxiao joined the Min lab in February 2025, with her current research focus on l
   pronouns: she/her/her
   email: 
   description: "
-Gaoshen received his Master’s degree from Guangzhou Medical University in 2024.
-During his master’s studies, he investigated the regulation of embryonic stem cell fate transition at Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences.
-In July 2024, he joined the Min Lab as a Research Assistant, focusing on studies related to airway basal cells.
-He began his PhD studies in 2025.
+Yuxiao graduated with a degree in Bioengineering from Hubei University and is currently pursuing a Master's degree in Biology at Guangzhou Medical University. \
+Yuxiao joined the Min lab in February 2025, with her current research focus on lineage tracing and lung regeneration.
 "
+
 
 
